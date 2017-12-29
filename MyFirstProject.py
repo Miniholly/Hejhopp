@@ -6,7 +6,7 @@ while spell == "":
 	print ("Choose one:\n 1. Charmander \n 2. Bulbasaur \n 3. Squirtle")
 
 	Pokemon = input()
-	if Pokemon == "charmander" or Pokemon == "1":
+	if Pokemon == "Csdharmander" or Pokemon == "1":
 		Pokemon = "charmander"
 		spell = "Fireball"
 	elif Pokemon == "bulbasaur" or Pokemon == "2":
